@@ -1,0 +1,88 @@
+h1 {
+  font-size: 2em;
+  color: rgba(10, 105, 39, 0.993);
+  margin: auto;
+}
+
+h2 {
+  font-size: 2em;
+  color: rgba(168, 15, 15, 0.671);
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.product-title {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.product-id {
+  font-size: .8em;
+  margin: 1em 0;
+}
+
+.product-edit-icon {
+  opacity: .7;
+  position: absolute;
+  right: 2.3rem;
+  top: .4rem;
+}
+
+.product-edit-icon:hover {
+  opacity: 1;
+}
+
+.navbar, .navbar-end, .navbar-menu, .navbar-start {
+  align-items: stretch !important;
+  display: flex !important;
+}
+
+.navbar-menu {
+  flex-grow: 1 !important;
+  flex-shrink: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.navbar-item {
+  display: flex !important;
+}
+
+.navbar-end {
+  justify-content: flex-end !important;
+  margin-left: auto !important;
+}
+
+.features {
+  padding-bottom: 3em;
+}
+
+body {
+  visibility: visible !important;
+}
+
+
+.auth form {
+  margin-top: 1em;
+  max-width: 50%;
+}
+
+.buttons {
+  margin-left: 1em;
+}
+
+.btn.btn-lg.btn-success{
+  background-color: rgb(10, 165, 82);
+}
+
+.btn.btn-lg.btn-danger{
+  background-color: rgba(255, 102, 0, 0.856);
+}
+
+.btn.btn-lg.btn-info{
+  background-color:rgba(83, 156, 206, 0.856);
+}
+
+.btn.btn-lg.btn-warning{
+  background-color: rgba(255, 251, 0, 0.979);
+}
