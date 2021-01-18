@@ -35,4 +35,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## Architectural Diagram
-! [image](https://github.com/revankars/aws-cognito/blob/main/AWS-Architecture%20Diagram.jpg)
+![Imgur Image](https://github.com/revankars/aws-cognito/blob/main/AWS-Architecture%20Diagram.jpg)
